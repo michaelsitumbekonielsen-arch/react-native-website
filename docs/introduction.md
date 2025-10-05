@@ -33,7 +33,7 @@ This introduction lets you get started immediately in your browser with interact
 import React from 'react';
 import {Text, View} from 'react-native';
 
-const YourApp = () => {
+const ååYourApp = () => {
   return (
     <View
       style={{
